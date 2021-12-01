@@ -166,7 +166,7 @@ i:hover {
 .footerInfoItem {
     margin: 0 10px;
     padding-top: 50px;
-    transition: all 300ms ease;
+    transition: all 301ms ease;
 }
 
 .footerInfoItem:hover {
